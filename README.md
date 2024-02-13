@@ -2,6 +2,9 @@
 
 ### -Akshat Saxena(2022055)
 
+### Github Repository:
+Find the Assignment at the following github repo ( https://github.com/Akshat22055/Practical_Bioinformatics-ass1- )
+
 ## Task 1: Download the Genome Sequence of Baker’s Yeast (Saccharomyces cerevisiae)
 
 ### Citations:
